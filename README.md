@@ -10,10 +10,10 @@ _1.5T atlas_ [23w-36w]: constructed using healthy fetal brain T2w images scanned
 _3T 4mm atlas_ [23w-38w]: constructed using healthy fetal brain T2w images scanned at **3T** scanner with **4mm** slice thickness (clinical data)\
 _3T 2mm atlas_ [23w-38w]: constructed using healthy fetal brain T2w images scanned at **3T** scanner with **2mm** slice thickness (research data)
 
-For more atlas construction method details, please refer to: Spatiotemporal Atlas of the Fetal Brain Depicts Cortical Developmental Gradient.(https://doi.org/10.1523/JNEUROSCI.1285-22.2022)
+For more atlas construction method details, please refer to: [Spatiotemporal Atlas of the Fetal Brain Depicts Cortical Developmental Gradient](https://doi.org/10.1523/JNEUROSCI.1285-22.2022)
 
 **Contact**:\
 Xinyi Xu: xuxinyi_bme@zju.edu.cn\
-Dan Wu: danwu.bme@zju.edu.cn\
+Dan Wu: danwu.bme@zju.edu.cn
 
 **Note:** Original T2 images were first percentile threshold then normalized to [0,1]
